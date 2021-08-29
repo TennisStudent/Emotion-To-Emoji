@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#name ,#name_2  
+{
+  color: black;
+}
+.emotion-name
+{
+  font-size: 40px;
+}
+.emotion-emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 24px;
+  font-family: Georgia;
+  letter-spacing: 5px;
+  border-radius: 10px;
+}
+label
+{
+  font-size: 14px;
+  background-color:midnightblue;
+  border-radius: 5px;
+  padding: 5px;
+}
+
